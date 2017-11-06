@@ -1,8 +1,8 @@
 node {
+    sh "aaaaaaaaaa"
  	// Clean workspace before doing anything
     deleteDir()
 
-    sh "aaaaaaaaaa"
     sh "aaaaaaaaaa"
     try {
         stage ('Clone') {
